@@ -36,7 +36,7 @@ Pero antes de comenzar a contribuir, **necesitas revisar esta checklist** para a
 Una vez tengas lo anterior marcado, sigue estos pasos para iniciar tu camino en LATAI:
 
 ### 👋 1. Preséntate al mundo
-- 📱 ** Entrar a la comunidad WhatsApp de LATAI** ( link https://chat.whatsapp.com/LPgBVQcnDcRAk7Yi6WUWx7 )
+- 📱 ** Entrar a la comunidad WhatsApp de LATAI** : pide el link a los miembros (por seguridad antiBot no podemos poner el link tan claro ... chat.whatsapp.com ... LPgBVQcnDcRAk7Yi6WUWx7 )
 - en GitHub Crea un archivo llamado como tú: `juan_perez.md` o `laura_dev.txt` y súbelo en el repositorio `/saludos/` (https://github.com/latai-community/Saludos), para esto tienes que hacer commit de tu file y pullRequest para que un admin lo apruebe.
 - Cuéntanos en ese archivo:
   - De dónde eres
