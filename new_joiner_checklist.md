@@ -79,18 +79,18 @@ Ya diste tus primeros pasos, ¿qué sigue? Aquí tienes formas de **seguir creci
 
 ## 🧭 REGLAS DE ORO EN LA COMUNIDAD 🌟
 
-✔️ Sé proactivo/a: si algo no sabes, ¡pregunta o búscalo!  
-✔️ Sé profesional: respeta los canales, aporta con sentido, comunica con claridad.  
-✔️ Sé constructivo: si algo está mal, corrígelo con buenas formas.  
-✔️ Sé ordenado: deja todo mejor de como lo encontraste.  
-✔️ Sé abierto: comparte lo que aprendes, no te lo guardes.  
-✔️ Sé responsable: si te comprometes a algo, cúmplelo o avisa.
+✔️ Sé **proactivo/a**: si algo no sabes, ¡pregunta o búscalo!  
+✔️ Sé **profesional**: respeta los canales, aporta con sentido, comunica con claridad.  
+✔️ Sé **constructivo**: si algo está mal, corrígelo con buenas formas.  
+✔️ Sé **ordenado**: deja todo mejor de como lo encontraste.  
+✔️ Sé **abierto**: comparte lo que aprendes, no te lo guardes.  
+✔️ Sé **responsable**: si te comprometes a algo, cúmplelo o avisa.
 
 ---
 
 ## 🧠 Y RECUERDA...
 
-LATAI es un experimento social y técnico **QUE DEPENDE DE TI**  
+❤️ LATAI es un movimiento social y técnico **QUE DEPENDE DE TI** para sacar la cara de Latinoamerica adelante 😊
 No hay tutores, no hay presupuesto, no hay "líderes que lo hacen todo" **PERO SI HAY un espiritu de COLABORACION**  
 **Esta comunidad solo funciona si TÚ participas, TÚ propones, TÚ haces.**  
 Porque **todos ganamos con lo que tú aportas**.
