@@ -1,103 +1,111 @@
-# ✅ LATAI Community - CheckList para Nuevos Miembros 🚀
+# ✅ LATAI Community - New Joiner Checklist 🚀
 
-¡Bienvenid@ a la comunidad **LATAI – Learning AI Through AI**!  Este quizas sera uno de los UNICOS documentos de la comunidad que tiene una VERSION en Español. 
-Si estás aquí, ¡felicitaciones! Ya diste el paso más importante: **unirte a una comunidad libre, colaborativa y enfocada en aprender Inteligencia Artificial mientras construimos software real con la ayuda de IA**. 🧠🤖
-
-Pero antes de comenzar a contribuir, **necesitas revisar esta checklist** para asegurarte de que tienes todo listo y puedas aprovechar al máximo tu participación sin miedo, sin perderte y con mucho impacto. 💥
-
----
-
-## 🔍 PRERREQUISITOS MÍNIMOS (¡Marca todo esto primero!) 🧩
-
-- [ ] 🇬🇧 **Entiendo que la tecnologia y las comunidades tecnicas estan principalmente en inglés** (para bien o para mal)
-- [ ] 🇬🇧 **Puedo leer documentación técnica en inglés** (en particular de Ai + Sofware).
-- [ ] 📖 **Tengo al menos 1 hora a la semana para leer o revisar proyectos** de la comunidad (no solo programar, también leer/ver los grupos es parte de contribuir).
-- [ ] ⏰ **Tengo al menos 1 hora a la semana** para contribuir al proyecto.
-- [ ] 💻 **Entiendo lo básico de programación y computación** (qué es una variable, una función, cómo ejecutar scripts, que es compilar, que lenguajes existe, que es una App, etc).
-- [ ] 😎 **He usado modelos de Ai** (como ChatGPT, Perplexity, Claude, DeepSeek, etc).
-- [ ] 🗃️ **Sé lo que es un archivo, una carpeta, una extensión**, y puedo moverme en la terminal (o consola) de mi sistema.
-- [ ] 🧠 **Sé que el software no es solo un archivo de código:**, se que hay artefactos como documentación, pruebas/tests, prompts, imágenes generadas por IA, etc.
-- [ ] 🐙 **Sé qué es Git** y puedo usar comandos básicos: `clone`, `add`, `commit`, `push`, `pull`, `branch`, `pull request`,etc
-- [ ] 🔧 **Entiendo las buenas prácticas de repositorios Git**:
-  - Tener `README.md`
-  - Tener `.gitignore`
-  - Respetar la estructura de carpetas
-  - No subir archivos basura o privados
-  - Usar nombres de archivos claros
-- [ ] 🧑‍💻 **Sé que los proyectos se trabajan en ramas (Branches), no directamente en main.**
-- [ ] 🤬 **Sé que no se permite comentar código con groserías, memes ni mensajes personales.**
-- [ ] 🧬 **Conozco los conceptos básicos de IA**: algoritmos, redes neuronales, NLP, deep learning, modelos generativos.
-- [ ] 🧪 **Sé que puedo generar código, imágenes o texto con IA, pero debo explicar para qué sirve.**
+> **This guide is for contributors looking to work on community projects.** It assumes prior programming and Git knowledge.
+>
+> Not a developer? No worries — [join the channels](https://discord.gg/gH4XrVbbXM), share resources, test projects, or just follow along. Not every contribution is code.
+>
+> 🇪🇸 [Versión en español](new_joiner_checklist.es.md)
 
 ---
 
-## 🪜 PRIMEROS PASOS PARA PARTICIPAR 💡
+Welcome to the **LATAI – Learning AI Through AI** community!
+If you're here, congratulations! You've already taken the most important step: **joining a free, collaborative community focused on learning Artificial Intelligence while building real software with AI**. 🧠🤖
 
-Una vez tengas lo anterior marcado, sigue estos pasos para iniciar tu camino en LATAI:
-
-### 👋 1. Preséntate al mundo
-- 📱 **Entra a la comunidad WhatsApp de LATAI** : (por seguridad antiBot ve a https://github.com/latai-community/.github/blob/main/link_Whatsapp_Community.link ) o simplemente pidele a uno de los miembros que te agregue.
-- en GitHub Crea un archivo llamado como tú: `juan_perez.md` o `laura_dev.txt` y súbelo en el repositorio `/saludos/` (https://github.com/latai-community/Saludos), para esto tienes que hacer commit de tu file y pullRequest para que un admin lo apruebe.
-- Cuéntanos en ese archivo:
-  - De dónde eres
-  - Por qué te interesa la comunidad
-  - Qué quieres aprender
-  - Un dato curioso tuyo 😄
-  - Como esperas contribuir
-
-### 📖 2. Lee el README principal de la comunidad
-- Entiende nuestros valores: somos **abiertos**, **colaborativos**, **gratuitos** y no hay jefes.
-- Conoce la licencia MIT: puedes usar todo libremente, ¡pero también tienes la libertad de aportar!
-
-### 🔍 3. Explora proyectos activos
-- Clona el proyecto **Hello Calculator** para entender cómo colaboramos.
-- Lee los proyectos y elige uno que te interese, ponte en contacto con los miembros mediante los canales habilitados.
-- Si no sabes por dónde empezar, pregunta en el grupo de WhatsApp o únete a una llamada en Discord.
-- Lee las noticias de Ai que publicamos en la comunidad y SI te enteras de alguna información, recurso o eventos que NO hayan sido publicados ... PUES PUBLICALOS tu! 😉
-
-### 🤝 4. Haz pair programming con alguien
-- No trabajes sol@. Busca a alguien con quien escribir código, prompts o documentación en conjunto.
-- Usa Discord con canal de voz para evitar distracciones. ¡Es más divertido y aprenderás más rápido!
+But before you start contributing, **you need to go through this checklist** to make sure you're ready to make the most of your participation — no fear, no getting lost, maximum impact. 💥
 
 ---
 
-## 🔁 FORMAS DE APORTAR CONTINUAMENTE 🧰
+## 🔍 MINIMUM PREREQUISITES (Check all of these first!) 🧩
 
-Ya diste tus primeros pasos, ¿qué sigue? Aquí tienes formas de **seguir creciendo y aportando valor**:
-
-- 🧠 **Corrige o mejora prompts existentes** (nombres, resultados, estructura).
-- 🧪 **Probar nuevos modelos de IA** (Claude, GPT-4, DeepSeek, etc.) y subir comparativas.
-- 📚 **Traducir o mejorar documentación**.
-- 🎨 **Generar imágenes/videos con prompts útiles** (no memes vacíos).
-- 🧾 **Proponer ideas de POCs** (pruebas de concepto con IA).
-- 🛠️ **Iniciar tu propio proyecto dentro de la comunidad** (¡no necesitas permiso!).
-- 🔍 **Comenta y revisa pull requests** de otros.
-- 🎓 **Crea mini guías o tutoriales de lo que aprendiste.**
-- 📢 **Sugiere nuevas reuniones, temas o espacios colaborativos.**
-
----
-
-## 🧭 REGLAS DE ORO EN LA COMUNIDAD 🌟
-
-✔️ Sé **proactivo/a**: si algo no sabes, ¡pregunta o búscalo!  
-✔️ Sé **profesional**: respeta los canales, aporta con sentido, comunica con claridad.  
-✔️ Sé **constructivo**: si algo está mal, corrígelo con buenas formas.  
-✔️ Sé **ordenado**: deja todo mejor de como lo encontraste.  
-✔️ Sé **abierto**: comparte lo que aprendes, no te lo guardes.  
-✔️ Sé **responsable**: si te comprometes a algo, cúmplelo o avisa.
+- [ ] 🇬🇧 **I understand that technology and tech communities are primarily in English** (for better or worse)
+- [ ] 🇬🇧 **I can read technical documentation in English** (especially AI + Software)
+- [ ] 📖 **I have at least 1 hour per week to read or review community projects** (not just coding — reading/following channels also counts as contributing)
+- [ ] ⏰ **I have at least 1 hour per week** to contribute to projects
+- [ ] 💻 **I understand programming and computing basics** (variables, functions, running scripts, compiling, languages, what an app is, etc.)
+- [ ] 😎 **I've used AI models** (like ChatGPT, Perplexity, Claude, DeepSeek, etc.)
+- [ ] 🗃️ **I know what a file, folder, and extension are**, and I can navigate my system's terminal/console
+- [ ] 🧠 **I know software isn't just code:** I understand there are artifacts like documentation, tests, prompts, AI-generated images, etc.
+- [ ] 🐙 **I know what Git is** and can use basic commands: `clone`, `add`, `commit`, `push`, `pull`, `branch`, `pull request`, etc.
+- [ ] 🔧 **I understand Git repository best practices**:
+  - Having a `README.md`
+  - Having a `.gitignore`
+  - Respecting folder structure
+  - Not uploading junk or private files
+  - Using clear file names
+- [ ] 🧑‍💻 **I know projects are worked on branches, not directly on main.**
+- [ ] 🤬 **I know code comments must not contain profanity, memes, or personal messages.**
+- [ ] 🧬 **I know basic AI concepts**: algorithms, neural networks, NLP, deep learning, generative models
+- [ ] 🧪 **I know I can generate code, images, or text with AI, but I must explain what it's for.**
 
 ---
 
-## 🧠 Y RECUERDA...
+## 🪜 FIRST STEPS TO PARTICIPATE 💡
 
-❤️ LATAI es un movimiento social y técnico **QUE DEPENDE DE TI** para sacar la cara de Latinoamerica adelante 😊
-No hay tutores, no hay presupuesto, no hay "líderes que lo hacen todo" **PERO SI HAY un espiritu de COLABORACION**  
-**Esta comunidad solo funciona si TÚ participas, TÚ propones, TÚ haces.**  
-Porque **todos ganamos con lo que tú aportas**.
+Once you've checked everything above, follow these steps to start your LATAI journey:
 
-🎓 Cada prompt, cada test, cada README que hagas es una contribución al conocimiento colectivo latinoamericano en IA.
+### 👋 1. Introduce yourself
+- 📱 **Join the LATAI WhatsApp community**: (for anti-bot security, go to https://github.com/latai-community/.github/blob/main/link_Whatsapp_Community.link) or simply ask a member to add you.
+- On GitHub, create a file named after you: `juan_perez.md` or `laura_dev.txt` and upload it to the `/saludos/` repo (https://github.com/latai-community/Saludos). You'll need to commit and open a Pull Request for an admin to approve it.
+- Tell us in that file:
+  - Where you're from
+  - Why you're interested in the community
+  - What you want to learn
+  - A fun fact about you 😄
+  - How you plan to contribute
+
+### 📖 2. Read the community's main profile
+- Understand our values: we are **open**, **collaborative**, **free**, and there are no bosses.
+- Learn about the MIT License: you can use everything freely, but you also have the freedom to contribute!
+
+### 🔍 3. Explore active projects
+- Clone the **Hello Calculator** project to understand how we collaborate.
+- Browse the projects and pick one that interests you. Reach out to members through our channels.
+- If you don't know where to start, ask in the WhatsApp group or join a voice call on Discord.
+- Read the AI news shared in the community. If you find resources, info, or events that haven't been shared yet... SHARE THEM yourself! 😉
+
+### 🤝 4. Do pair programming with someone
+- Don't work alone. Find someone to write code, prompts, or documentation together.
+- Use Discord voice channels to stay focused. It's more fun and you'll learn faster!
 
 ---
 
-**🚀 ¡Vamos, tú puedes! Comparte, crea y aprende con LATAI.**  
-¡Haz check a tu primer paso ahora mismo! ✅
+## 🔁 WAYS TO KEEP CONTRIBUTING 🧰
+
+You've taken your first steps — what's next? Here are ways to **keep growing and adding value**:
+
+- 🧠 **Fix or improve existing prompts** (names, results, structure)
+- 🧪 **Test new AI models** (Claude, GPT-4, DeepSeek, etc.) and share comparisons
+- 📚 **Translate or improve documentation**
+- 🎨 **Generate images/videos with useful prompts** (not empty memes)
+- 🧾 **Propose POC ideas** (proof of concepts with AI)
+- 🛠️ **Start your own project within the community** (no permission needed!)
+- 🔍 **Comment on and review others' pull requests**
+- 🎓 **Create mini guides or tutorials from what you learned**
+- 📢 **Suggest new meetings, topics, or collaborative spaces**
+
+---
+
+## 🧭 GOLDEN RULES OF THE COMMUNITY 🌟
+
+✔️ Be **proactive**: if you don't know something, ask or search for it!
+✔️ Be **professional**: respect the channels, contribute with purpose, communicate clearly
+✔️ Be **constructive**: if something's wrong, fix it with good manners
+✔️ Be **tidy**: leave everything better than you found it
+✔️ Be **open**: share what you learn, don't keep it to yourself
+✔️ Be **responsible**: if you commit to something, follow through or communicate
+
+---
+
+## 🧠 REMEMBER...
+
+❤️ LATAI is a social and technical movement **THAT DEPENDS ON YOU** to put Latin America on the map 😊
+There are no tutors, no budget, no "leaders who do everything" **BUT THERE IS a spirit of COLLABORATION**
+**This community only works if YOU participate, YOU propose, YOU build.**
+Because **we all benefit from what you contribute**.
+
+🎓 Every prompt, every test, every README you create is a contribution to Latin America's collective AI knowledge.
+
+---
+
+**🚀 Let's go, you've got this! Share, create, and learn with LATAI.**
+Check off your first step right now! ✅
