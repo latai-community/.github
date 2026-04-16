@@ -6,10 +6,9 @@
 
 An open-source community where Latin America builds real software **with AI, for AI**.
 
-[![GitHub Stars](https://img.shields.io/github/stars/latai-community?style=social)](https://github.com/latai-community)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/badge/Discord-Join-blueviolet?logo=discord&logoColor=white)](https://discord.gg/gH4XrVbbXM)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join-green?logo=whatsapp)](https://chat.whatsapp.com/LPgBVQcnDcRAk7Yi6WUWx7)
+[![Discord](https://img.shields.io/badge/Discord-Join-blueviolet?logo=discord&logoColor=white)](https://discord.gg/gH4XrVbbXM)
+[![GitHub Stars](https://img.shields.io/github/stars/latai-community?style=social)](https://github.com/latai-community)
 
 </div>
 
